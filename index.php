@@ -5,7 +5,7 @@
 ?>
 <html>
 <head>
-	<title>人力事管理系统</title>
+	<title>人事管理系统</title>
 </head>
 <frameset cols="15%,*" framespacing="0" frameborder="no" border="0">
 	<frame src="left.php">
