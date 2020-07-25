@@ -3,6 +3,9 @@
 <head>
 <script src="js/jquery-3.2.1.js" type="text/javascript"></script>
 <style type="text/css">
+	body{
+		margin: 0;
+	}
     h3,h4{font-family: 黑体;}
     a{color: #00F; text-decoration: none;}
     a:hover{color:#FF0000;}
@@ -10,10 +13,10 @@
 </style>
 </head>
 <body>
-    <div align="center">
+    <!-- <div align="center">
         <p style="font:24px 黑体">人事管理系统</p>
         <p style="font:16px 黑体">用户：<?php echo $_SESSION['name']; ?>&nbsp;&nbsp;&nbsp;<a href="login.php" target="_top">退出</a></p>
-    </div>
+    </div> -->
     <div id="menu" align="center">
         <h3>员工管理</h3>
         <ul>

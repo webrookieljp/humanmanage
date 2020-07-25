@@ -7,8 +7,11 @@
 <head>
 	<title>人事管理系统</title>
 </head>
-<frameset cols="15%,*" framespacing="0" frameborder="no" border="0">
-	<frame src="left.php">
-	<frame src="" name="right">
+<frameset rows="171px,*" framespacing="0" frameborder="no" border="0">
+	<frame src="top.php" />
+	<frameset cols="15%,*">
+		<frame src="left.php">
+		<frame src="" name="right">
+	</frameset>
 </frameset>
 </html>
