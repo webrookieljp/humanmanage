@@ -55,9 +55,10 @@
 			.center .user{
 				position: absolute;
 				top: 50%;
-				left: 50px;
+				left: 100px;
 				transform: translateY(-50%);
 				font-weight: bold;
+				color: white;
 			}
 			.center .close{
 				position: absolute;

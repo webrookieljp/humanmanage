@@ -9,7 +9,7 @@
 </head>
 <frameset rows="171px,*" framespacing="0" frameborder="no" border="0">
 	<frame src="top.php" />
-	<frameset cols="15%,*">
+	<frameset class="bottom" cols="440px,*">
 		<frame src="left.php">
 		<frame src="" name="right">
 	</frameset>
